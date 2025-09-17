@@ -16,9 +16,22 @@ PizzaHut-Website/
 └── images/          # Folder for images (e.g., logo, food photos)  
 
 Technologies Used
-HTML5
-CSS3
+-HTML5
+-CSS3
 
 Installation & Usage
 1. Clone the repository:
- git clone https://github.com//pizzahut-website.git
+ git clone https://github.com/NimishaPatel-21/pizzahut-website.git
+
+2. Navigate to the project folder:
+  cd pizzahut-website
+
+3.Open index.html in your browser:
+  open index.html
+
+Future Improvements
+
+-Add JavaScript for interactive features 
+-Include animations or transitions for a smoother UI
+-Connect to a backend for real order processing
+
